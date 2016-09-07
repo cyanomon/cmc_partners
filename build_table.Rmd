@@ -1,0 +1,33 @@
+---
+title: Cyanobacteria Monitoring Collaborative - Participants
+output: html_document
+---
+
+```{r, echo=FALSE,message=FALSE,warning=FALSE}
+#Set up DT from the csv
+#
+# /usr/bin/gcc-4.6.2/lib64/libstdc++.so.6.0.20
+library(DT)
+library(magick)
+library(dplyr)
+library(knitr)
+
+cmc <- read.csv("cmc_partners_2016_09_09_cleaned.csv", 
+                stringsAsFactors = FALSE, strip.white = TRUE) %>%
+  filter(Logo != "logos/NA",
+         Web != "?")
+for(i in cmc$Logo){
+  l <- image_read(i)
+  l_s <- image_scale(l,"x50")
+  image_write(l_s,paste0("logos/resize/",gsub("logos/","",i)))
+}
+
+name <- paste0("[",cmc$Organization,"]","(",cmc$Web,")")
+logo <- paste0("![",cmc$Organization,"]","(logos/resize/",gsub("logos/","",cmc$Logo),")")
+xdf <- data.frame(Organization = name, Logo = logo)
+#names(xdf)<-c("","")
+```
+
+```{r,echo=FALSE,results='asis'}
+kable(xdf)
+```
