@@ -45,5 +45,5 @@ xdf <- data.frame(Logo = logo, Organization = name, State = cmc$State)
 datatable(xdf, escape = FALSE,rownames = FALSE, 
           options = list(pageLength = nrow(xdf),
                          dom = "ft")) %>%
-  saveWidget("partners.html")
+  htmlwidgets::saveWidget("partners.html", selfcontained = TRUE)
 ```
