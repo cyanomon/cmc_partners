@@ -46,5 +46,4 @@ datatable(xdf, escape = FALSE,rownames = FALSE,
           options = list(pageLength = nrow(xdf),
                          dom = "ft")) %>%
   saveWidget("partners.html")
-
 ```
