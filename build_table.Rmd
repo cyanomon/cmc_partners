@@ -6,8 +6,8 @@ output: html_document
 ```{r, echo=FALSE,message=FALSE,warning=FALSE}
 #Set up DT from the csv
 #
-# /usr/bin/gcc-4.6.2/lib64/libstdc++.so.6.0.20
-library(DT)
+# sudo rm libstdc++.so.6
+# sudo ln -s /usr/bin/gcc-4.6.2/lib64/libstdc++.so.6.0.20 libstdc++.so.6
 library(magick)
 library(dplyr)
 library(knitr)
@@ -24,10 +24,27 @@ for(i in cmc$Logo){
 
 name <- paste0("[",cmc$Organization,"]","(",cmc$Web,")")
 logo <- paste0("![",cmc$Organization,"]","(logos/resize/",gsub("logos/","",cmc$Logo),")")
-xdf <- data.frame(Organization = name, Logo = logo)
-#names(xdf)<-c("","")
+xdf <- data.frame(Logo = logo, Organization = name, State = cmc$State)
+names(xdf)[1] <-c(" ")
 ```
 
 ```{r,echo=FALSE,results='asis'}
 kable(xdf)
+```
+
+```{r datatable, echo=FALSE}
+library(DT)
+library(commonmark)
+for(i in seq_along(name)){
+  name[i]<-markdown_html(name[i])
+}
+for(i in seq_along(logo)){
+  logo[i]<-markdown_html(logo[i])
+}
+xdf <- data.frame(Logo = logo, Organization = name, State = cmc$State)
+datatable(xdf, escape = FALSE,rownames = FALSE, 
+          options = list(pageLength = nrow(xdf),
+                         dom = "ft")) %>%
+  saveWidget("partners.html")
+
 ```
