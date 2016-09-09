@@ -28,6 +28,31 @@ names(name_add)[3]<- "E-mail Address"
 #Join both together keeping all
 outlook2 <- full_join(outlook,name_add,by="E-mail Address")
 
+#Create one row per name...  Few with same email, multiple names..
+dup_email <- outlook2$'E-mail Address' %in% outlook2$`E-mail Address`[duplicated(outlook2$`E-mail Address`)]
+outlook2[dup_email,]$`First Name.x` <- outlook2[dup_email,]$`First Name.y`
+outlook2[dup_email,]$`Last Name.x` <- outlook2[dup_email,]$`Last Name.y`
 
+#Move names from name_add to outlook name position.
+na_name <- is.na(outlook2$`First Name.x`)
+outlook2$`First Name.x`[na_name] <-outlook2$`First Name.y`[na_name]
+outlook2$`Last Name.x`[na_name] <-outlook2$`Last Name.y`[na_name]
+outlook2$`E-mail Display Name` <- paste(outlook2$`First Name.x`,outlook2$`Last Name.x`)
 
+#Back to original names
+names(outlook2)[c(2,4)] <- c("First Name", "Last Name")
+outlook2 <- outlook2[,1:(ncol(outlook2)-2)]
+
+#Work on cleaning up Affiliation names
 orgs <- read_csv("cmc_partners_2016_09_09_cleaned.csv")
+names(orgs)<-c("Affiliation","State", "WEB", "Logo")
+org_join <- full_join(outlook2,orgs) %>%
+  select(-State,-Logo)
+
+#Need to match emails w/o orgs to orgs...
+write.csv(org_join,"cleaned_cmc_member.csv")
+
+#Need to figure out logos
+
+#Spit out table from the cleaned, final list
+
