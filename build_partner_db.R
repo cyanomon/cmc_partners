@@ -42,19 +42,34 @@ outlook2$`E-mail Display Name` <- paste(outlook2$`First Name.x`,outlook2$`Last N
 
 #Back to original names
 names(outlook2)[c(2,4)] <- c("First Name", "Last Name")
-outlook2 <- outlook2[,1:(ncol(outlook2)-2)]
+
+#Combine Affilitations
+outlook2$Affiliation.y[is.na(outlook2$Affiliation.y)] <- outlook2$Affiliation.x[is.na(outlook2$Affiliation.y)]
+outlook2$WEB.y[is.na(outlook2$WEB.y)] <- outlook2$WEB.x[is.na(outlook2$WEB.y)]
+
+cmc_partners <- outlook2 %>%
+  select(`First Name`, `Last Name`, `E-mail Address`, Affiliation.y, WEB.y) %>%
+  arrange(Affiliation.y)
+
+names(cmc_partners)[4:5]<-c("Affiliation","Web")
+
+#Cleaned up version for dissemination
+#Proposing (on 9/15/16) to move this to google sheets and have additions to 
+#sheet done via a google forms.
+write.csv(cmc_partners,"cmc_partners.csv")
+
 
 #Work on cleaning up Affiliation names
-orgs <- read_csv("cmc_partners_2016_09_09_cleaned.csv")
-names(orgs)<-c("Affiliation","State", "WEB", "Logo")
-org_join <- full_join(outlook2,orgs) %>%
-  select(Affiliation,WEB)
-org_join<-unique(org_join) %>%
-  arrange(Affiliation)
+#orgs <- read_csv("cmc_partners_2016_09_09_cleaned.csv")
+#names(orgs)<-c("Affiliation","State", "WEB", "Logo")
+#org_join <- full_join(outlook2,orgs) %>%
+#  select(Affiliation,WEB)
+#org_join<-unique(org_join) %>%
+#  arrange(Affiliation)
 #Need to match emails w/o orgs to orgs...
 #Manual!!
 #write.csv(org_join,"cleaned_orgs.csv")
-write.csv(outlook2,"cleaned_cmc_member.csv")
+#write.csv(outlook2,"cleaned_cmc_member.csv")
 
 #Need to figure out logos
 
