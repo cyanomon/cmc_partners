@@ -48,10 +48,13 @@ outlook2 <- outlook2[,1:(ncol(outlook2)-2)]
 orgs <- read_csv("cmc_partners_2016_09_09_cleaned.csv")
 names(orgs)<-c("Affiliation","State", "WEB", "Logo")
 org_join <- full_join(outlook2,orgs) %>%
-  select(-State,-Logo)
-
+  select(Affiliation,WEB)
+org_join<-unique(org_join) %>%
+  arrange(Affiliation)
 #Need to match emails w/o orgs to orgs...
-write.csv(org_join,"cleaned_cmc_member.csv")
+#Manual!!
+#write.csv(org_join,"cleaned_orgs.csv")
+write.csv(outlook2,"cleaned_cmc_member.csv")
 
 #Need to figure out logos
 
