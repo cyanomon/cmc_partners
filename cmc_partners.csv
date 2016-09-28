@@ -1,218 +1,219 @@
-"","First Name","Last Name","E-mail Address","Affiliation","Web"
-"1","John","Lincoln","jlincoln@abrockwater.com","Abbington and Rockland Joint Water District",NA
-"2","Tom","Royal","troyal@abrockwater.com","Abbington and Rockland Joint Water District",NA
-"3","Amy","Arsenault","amyarsenault@awatersheds.org","Acton Wakefield Watersheds Alliance","http://awwatersheds.org/"
-"4","Kaitlin","Carr","awwaqco@gmail.com","Acton Wakefield Watersheds Alliance","http://awwatersheds.org/"
-"5","Buck","Howe","buckhowe@comcast.net","Acton Wakefield Watersheds Alliance","http://awwatersheds.org/"
-"6","Linda","Schier","lindaschier@awwatersheds.org","Acton Wakefield Watersheds Alliance","http://awwatersheds.org/"
-"7","Sarah","Wright","sarah.wright@aphl.org","Association of Public Health Labs","https://www.aphl.org/Pages/default.aspx"
-"8","Pat","Boyd","boydplum@comcast.net","Balch lake Association/AWWA","http://www.balchlake.org/"
-"9","Ray","Boyd","boydplum@comcast.net","Balch lake Association/AWWA","http://www.balchlake.org/"
-"10","Michael","Germain","Michael.Germain@baystatehealth.org","Baystate Health","https://www.baystatehealth.org/"
-"11","Gail","Colozzi","bearcamppondassociation@gmail.com","Bear Camp Pond Association",NA
-"12","Bob","Green","bearcamppondassociation@gmail.com","Bear Camp Pond Association",NA
-"13","Elaine","Papa","elainepapa267@gmail.com","Buckeye Brook Coalition","http://www.buckeyebrook.org/"
-"14","Bev","Anderson-Abbs","Bev.Anderson-Abbs@Waterboards.ca.gov","California Environmental Protection Agency State Water Resources Control Board","http://waterboards.ca.gov/"
-"15","John","Bergeron","bergeronjh@gmail.com","Canaan Street lake Association","http://canaanlakenh.org/the_association.html"
-"16","Elisabeth","Cianciola","ecianciola@crwa.org","Charles River Watershed Association","http://www.crwa.org/"
-"17","Kate","Freidman","kfriedman@crwa.org","Charles River Watershed Association","http://www.crwa.org/"
-"18","Pat","Myers","pmyers@Concordnh.gov","City of Concord, NH","http://www.concordnh.gov/"
-"19","Marco","Phillipon","MPhilippon@ConcordNH.gov","City of Concord, NH","http://www.concordnh.gov/"
-"20","Ryan","Boggan","r.boggan@danbury-ct.gov","City of Danbury, CT","http://www.ci.danbury.ct.us/"
-"21","John","Lynch","johnplynch71@yahoo.com","City of Lebanon, NH","http://www.lebnh.net/"
-"22","Jessica","Pearce","jpearce@cityofportsmouth.com","City of Portsmouth, NH","http://www.cityofportsmouth.com/"
-"23","Jim","McColl","mccoll@worcesterma.gov","City of Worcester, MA","http://www.worcesterma.gov/"
-"24","Mike","Berberian","berberianm@worcesterma.gov","City of Worcester, MA","http://www.worcesterma.gov/"
-"25","Koby","Ansalic","ansalic@worcesterma.gov","City of Worcester, MA","http://www.worcesterma.gov/"
-"26","Jaime","Rice","ricejl@worcesterma.gov","City of Worcester, MA","http://www.worcesterma.gov/"
-"27","Michael","Mendez","mendezm@worcesterma.gov","City of Worcester, MA","http://www.worcesterma.gov/"
-"28","Philip","Leger","legerP@worcesterma.gov","City of Worcester, MA","http://www.worcesterma.gov/"
-"29","Tim","Sisson","Timothy.Sisson@clevelandmetroschools.org","Cleveland Metropolitan School District","http://www.clevelandmetroschools.org/"
-"30","Eileen","Pannetier","epannetier@ceiengineers.com","Comprehensive Environmental Inc.","http://ceiengineers.com/"
-"31","Tracy","Lizotte","Tracy.Lizotte@ct.gov","Conncecticut Department of Energy and Environmental Protection","http://www.ct.gov/deep/site/default.asp"
-"32","Walter","Tokarz","walter.tokarz@ct.gov","Conncecticut Department of Energy and Environmental Protection","http://www.ct.gov/deep/site/default.asp"
-"33","Ansel","Aarrestad","Ansel.Aarrestad@ct.gov","Conncecticut Department of Energy and Environmental Protection Water Quality Monitoring and Assessment Program","http://www.ct.gov/deep/cwp/view.asp?a=2719&q=325616"
-"34","Christopher","Bellucci","Christopher.Bellucci@ct.gov","Conncecticut Department of Energy and Environmental Protection Water Quality Monitoring and Assessment Program","http://www.ct.gov/deep/cwp/view.asp?a=2719&q=325616"
-"35","Steven","Loiselle","sloiselle@earthwatch.org.uk","Earthwatch Institute","http://earthwatch.org/"
-"36","Kitty","Lane","kittyl@eailabs.com","Eastern Analytical, Inc.","http://easternanalytical.com/"
-"37","Rosalind","Roth","rozroth@gmail.com","Elephant Pond Association",NA
-"38","Hy","Rosen","rosenhy@gmail.com","Federation of Lake Garfield","http://macolap.org/"
-"39","Julio","Rodriguez","jrodrn@aol.com","Federation of Lake Garfield","http://macolap.org/"
-"40","Marty","Goldstein","darkng49@gmail.com","Federation of Lake Garfield","http://macolap.org/"
-"41","Steve","Edelstein","Steven_edelstein@yahoo.com","Federation of Lake Garfield","http://macolap.org/"
-"42","Wendy","German","withher2wings@gmail.com","Federation of Lake Garfield","http://macolap.org/"
-"43","Zoe","Hutcher","zoehutcher@yahoo.com","Federation of Lake Garfield","http://macolap.org/"
-"44","Chet","Foster","chetfoster@yahoo.com","FOWP",NA
-"45","Evan","Hornig","capniah@gmail.com","Freshwater Bioassessment Consulting, LLC","http://freshwaterbio.webs.com/"
-"46","Leo","Thuotte","Thuotte57@gmail.com","Gorton Pond Watershed Watch","http://web.uri.edu/watershedwatch/"
-"47","Andrew","Madison","amadison@granitestatewater.org","Granite State Rural Water Association","http://www.granitestatewater.org/"
-"48","Scott","Clang","sclang@granitestatewater.org","Granite State Rural Water Association","http://www.granitestatewater.org/"
-"49","Dave","Mankus","mankus@worldpath.net","Great East Lake Association/AWWA","http://awwatersheds.org/"
-"50","Gayle","Elsberry","g_elsberry@hotmail.com","Great East Lake Association/AWWA","http://awwatersheds.org/"
-"51","Janice","Hunter","jg_hunter@verizon.net","Great East Lake Association/AWWA","http://awwatersheds.org/"
-"52","Pat","Theisen","ptheisen22@gmail.com","Great East Lake Association/AWWA","http://awwatersheds.org/"
-"53","Beth","Proko","bproko@charter.net","Indian Lake Watershed Association","http://www.indianlakema.com"
-"54","Robin","Williams","robinftaubw@gmail.com","Lake Buel Association","http://macolap.org/"
-"55","Eric","Howe","ehowe@lcbp.org","Lake Champlain Basin Monitoring Program","http://www.lcbp.org/water-environment/data-monitoring/monitoring-programs/"
-"56","Mike","Winslow","mikew@lakechamplaincommittee.org","Lake Champlain Committee","https://www.lakechamplaincommittee.org/"
-"57","Wayne","Laroche","wayne@mychamplain.net","Lake Champlain International","https://www.mychamplain.net/"
-"58","James","Ehlers","james@mychamplain.net","Lake Champlain International","https://www.mychamplain.net/"
-"59","Richard and Pat","Edelstein","mdrnhart@gmail.com","Lake Garfield Association","http://macolap.org/"
-"60","Barbara","Kickham","BKS3@townisp.com","Lake Quinsigamond Watershed Association","http://www.lqwa.org/"
-"61","Mike","Kalinowski","kalinowski.mike@gmail.com","Lake Quinsigamond Watershed Association","http://www.lqwa.org/"
-"62","Alex","Cahill","alexandra.cahill@uvm.edu","Lake Sunapee Protective Association","http://www.lakesunapee.org/contact-us/"
-"63","Kristy","Sullivan","sullivan_kristy@wheatoncollege.edu","Lake Sunapee Protective Association","http://www.lakesunapee.org/contact-us/"
-"64","Teriko","MacConnell","teriko.macconnell@sawyer-college.edu","Lake Sunapee Protective Association","http://www.lakesunapee.org/contact-us/"
-"65","Don","Kretchmer","dkretchmer@metrocast.net","Lake Wentworth","http://www.wolfeboronh.us/home/events/6813"
-"66","Rich","Masse","rich.masse@moosepoint.org","Lake Wentworth","http://www.wolfeboronh.us/home/events/6813"
-"67","Al","Collings","afc@charter.net","Lake Wickaboag Preservation","http://www.lakewickaboag.com/"
-"68","Jack","Sweeney","jrsweeney58@charter.net","Lake Wickaboag Preservation","http://www.lakewickaboag.com/"
-"69","Pat","Tarpey","ptarpey@winnepesauki.org","Lake Winnepesauki Association","http://www.winnipesaukee.org/"
-"70","Jim","Angers","jim.angers@lebcity.com","Lebanon, NH","http://www.lebnh.net/"
-"71","Adam","Lewis","adam.lewis@lebcity.com","Lebanon, NH","http://www.lebnh.net/"
-"72","Mike","Liberty","infoo@libertyconcretecutting.com","Liberty Concrete Cutting",NA
-"73","Chuck","Robbins","cpr55@roadrunner.com","Lovell Lake Association/AWWA","http://www.lovelllakenh.org/"
-"74","Dana","Padgett","danavpadgett@yahoo.com","Lovell Lake Association/AWWA","http://www.lovelllakenh.org/"
-"75","Marti","Ortiz","marti_ortiz2000@yahoo.com","Lovell Lake Association/AWWA","http://www.lovelllakenh.org/"
-"76","Oscar","Ortiz","oscar3865@att.net","Lovell Lake Association/AWWA","http://www.lovelllakenh.org/"
-"77","Paul","Doucette","paljudth@gmail.com","Lovell Lake Association/AWWA","http://www.lovelllakenh.org/"
-"78","Stephanie","Thornton","saythornton@gmail.com","Lovell Lake Association/AWWA","http://www.lovelllakenh.org/"
-"79","Linda","Bacon","lbacon75139@roadrunner.com","Maine Department of Environmental Protection Lakes Program","http://www.maine.gov/dep/water/lakes/"
-"80","Linda","Bacon","Linda.C.Bacon@maine.gov","Maine Department of Environmental Protection Lakes Program","http://www.maine.gov/dep/water/lakes/"
-"81","Maggie","Shannon","msshannon@mainelakessociety.org","Maine Lakes Society","http://mainelakessociety.org/"
-"82","Alex","Larochelle","alarochelle@manchesternh.gov","Manchester Water Works","https://www.manchesternh.gov/Departments/Water-Works"
-"83","Cheryl","Wood","CWood@manchesternh.gov","Manchester Water Works","https://www.manchesternh.gov/Departments/Water-Works"
-"84","Dave","Miller","dmiller@manchesternh.gov","Manchester Water Works","https://www.manchesternh.gov/Departments/Water-Works"
-"85","John","O'Neil","jmoneil@manchesternh.gov","Manchester Water Works","https://www.manchesternh.gov/Departments/Water-Works"
-"86","Kristin","Conte","kconte@manchesternh.gov","Manchester Water Works","https://www.manchesternh.gov/Departments/Water-Works"
-"87","Jim","Martel","Jjimmartel41@gmail.com","Mascoma Lake Association","http://mascomalakeassociation.mylaketown.com/"
-"88","Bill","Clougherty","william.cluogherty@state.ma.us","Massachusetts Department of Environmental Protection Watershed and Drinking Water Programs","http://www.mass.gov/eea/agencies/massdep/water/drinking/"
-"89","George","Zoto","george.zoto@state.ma.us","Massachusetts Department of Environmental Protection Watershed and Drinking Water Programs","http://www.mass.gov/eea/agencies/massdep/water/drinking/"
-"90","Joanie","Beskenis","Joan.Beskenis@state.ma.us","Massachusetts Department of Environmental Protection Watershed and Drinking Water Programs","http://www.mass.gov/eea/agencies/massdep/water/drinking/"
-"91","Kristin","Divris","kristin.divris@state.ma.us","Massachusetts Department of Environmental Protection Watershed and Drinking Water Programs","http://www.mass.gov/eea/agencies/massdep/water/drinking/"
-"92","Mike","Celona","mike.celona@state.ma.us","Massachusetts Department of Environmental Protection Watershed and Drinking Water Programs","http://www.mass.gov/eea/agencies/massdep/water/drinking/"
-"93","Thomas","Laage","talaage@massmed.org","Massachusetts Medical Society","http://www.massmed.org/"
-"94","Daniel","Leonard","dleonard@meredithnh.org","Merideth Public Water Supply","http://www.meredithnh.org/Joomla/index.php/town-departments-26/water-a-sewer"
-"95","Bob","Garnett","rjg46@hotmail.com","Milton Three Ponds","http://www.threeponds.org/"
-"96","Lee","Chase","svsequela@yahoo.com","Milton Three Ponds","http://www.threeponds.org/"
-"97","David","Sittenfeld","dsittenfeld@mos.org","Museum of Science","http://mos.org/"
-"98","Andy","Hrycyna","andy@mysticriver.org","Mystic River Watershed Association","http://mysticriver.org/"
-"99","Anthony","Motta","motta@neponset.org","Neponset River Watershed Association","http://www.neponset.org/"
-"100","Chris","Hirsch","hirsch@neponset.org","Neponset River Watershed Association","http://www.neponset.org/"
-"101","Meghan","Ranber","meghan@neponset.org","Neponset River Watershed Association","http://www.neponset.org/"
-"102","Jasper","Hobbs","JHobbs@neiwpcc.org","New England Interstate Water Pollution Control Commission","http://www.neiwpcc.org/"
-"103","Dan","Peckham","DPeckham@neiwpcc.org","New England Interstate Water Pollution Control Commission","http://www.neiwpcc.org/"
-"104","Kimberly","Roth","kroth@neiwpcc.org","New England Interstate Water Pollution Control Commission","http://www.neiwpcc.org/"
-"105","David","Neils","dneils@des.state.nh.us","New Hampshire Department of Environmental Services","http://des.nh.gov/"
-"106","Sonya","Carlson","sonya.carlson@des.nh.gov","New Hampshire Department of Environmental Services","http://des.nh.gov/"
-"107","Paul","Susca","Paul.Susca@des.nh.gov","New Hampshire Department of Environmental Services","http://des.nh.gov/index.htm"
-"108","Pierce","Rigrod","Pierce.Laskey-Rigrod@des.nh.gov","New Hampshire Department of Environmental Services","http://des.nh.gov/index.htm"
-"109","Scott","Almstrom","scott.almstrom@hypertherm.com","New Hampshire Lake Association","https://nhlakes.org/"
-"110","Rebecca","Gorney","Rebecca.Gorney@dec.ny.gov","New York State Deparment of Environmental Conservation","http://www.dec.ny.gov/index.html"
-"111","Scott","Kishbaugh","sakishba@gw.dec.state.ny.us","New York State Deparment of Environmental Conservation","http://www.dec.ny.gov/index.html"
-"112","Julie","Hambrook Berkman","jberkman@ourspaces.org.uk","Our Spaces","http://www.ourspaces.org.uk/"
-"113","Carl","Ullman","cullman52@sbcglobal.net","Owl lake Association",NA
-"114","William","Longfellow","wlongfellow@wabanaki.com","Passamaquoddy Tribe","http://www.wabanaki.com/"
-"115","Chris","Countie","chris.countie@pennichuck.com","Pennichuck Water Works","http://www.pennichuck.com/"
-"116","Matt","Day","matt.day@PENNICHUCK.com","Pennichuck Water Works","http://www.pennichuck.com/"
-"117","Angie","Reed","Angie.Reed@penobscotnation.org","Penobscot Nation","https://www.penobscotnation.org/"
-"118","Rosemary","Stewart","rstewart199@hotmail.com","Pine River Pond Association/AWWA","http://pineriverpond.org/"
-"119","Yvonne","Buswell","pondhouse9@comcast.net","Pine River Pond Association/AWWA","http://pineriverpond.org/"
-"120","Paula","Inglee","almostprf@aol.com","Province Lake Association/AWWA","http://provincelake.org/"
-"121","Shirley","Cartwright","cartwright@earthlink.net","Province Lake Association/AWWA","http://provincelake.org/"
-"122","Noel","Cartwright","cartwright@earthlink.net","Province Lake Association/AWWA","http://provincelake.org/"
-"123","Brian","Zalewsky","Brian.Zalewsky@DEM.RI.GOV","Rhode Island Department of Environmental Management","http://www.dem.ri.gov/"
-"124","Jane","Sawyers","Jane.Sawyers@DEM.RI.GOV","Rhode Island Department of Environmental Management","http://www.dem.ri.gov/"
-"125","Evan","Philo","Evan.Philo@health.ri.gov","Rhode Island Department of Health Laboratories","http://www.health.ri.gov/programs/laboratory/"
-"126","Henry","Leibovitz","Henry.Leibovitz@health.ri.gov","Rhode Island Department of Health Laboratories","http://www.health.ri.gov/programs/laboratory/"
-"127","Tim","Green","tim.green@rochesternh.net","Rochester Water Department","http://www.rochesternh.net/public-works"
-"128","Sue and Frank","Burgess","bingyby@comcast.net","Rock Pond Association","https://www.facebook.com/RockPondAssociation/"
-"129","Eileen","Naughton","rep.naughton@gmail.com","State Representative-District 21 (Warwick)",NA
-"130","John","Ferrarone","johnjferrarone@gmail.com","Tatnuck Brook Association","https://tatnuckbrookwatershed.wordpress.com/2011/06/28/join-the-tatnuck-brook-watershed-association/"
-"131","Delia","Kaye","dkaye@concordma.gov","Town of Concord, MA","http://www.concordnet.org/Pages/index"
-"132","Lori","Capone","lcapone@concordma.gov","Town of Concord, MA","http://www.concordnet.org/Pages/index"
-"133",NA,NA,"nrctemp@concordma.gov","Town of Concord, MA","http://www.concordnet.org/Pages/index"
-"134","Susan","Rask","srask@concordma.gov","Town of Concord, MA","http://www.concordnet.org/Pages/index"
-"135","Peter","Kulbacki","peter.kulbacki@hanovernh.gov","Town of Hanover, NH","http://www.hanovernh.org/Pages/index"
-"136","Lee","Bavis","lbavis@meredithnh.org","Town of Meredith, NH","http://www.meredithnh.org/"
-"137","Mike","Mccarthy","mmcarthy@newfairfield.org","Town of New Fairfield, CT","http://newfairfield.org/"
-"138","Tim","Simpkins","Tsimpkins@newfairfield.org","Town of New Fairfield, CT","http://newfairfield.org/"
-"139","Suzanne","Von Holt","svonholt@newmilford.org","Town of New Milford, CT","http://www.newmilford.org/"
-"140","Ian","Rohrbacher","ian.rohrbacher@rochesternh.net","Town of Rochester, NH","http://www.rochesternh.net"
-"141","Tim","Green","tim.green@rochesternh.gov","Town of Rochester, NH","http://www.rochesternh.net"
-"142","Angela","Snell","asnell@shrewsburyma.gov","Town of Shrewsbury","https://shrewsburyma.gov/407/Parks-Recreation"
-"143","Kevin","Esposito","kesposito@shrewsburyma.gov","Town of Shrewsbury","https://shrewsburyma.gov/407/Parks-Recreation"
-"144","Jacquie","Gonig","conservation2@stow-ma.gov","Town of Stow, MA","http://www.stow-ma.gov/pages/index"
-"145","David","Bailey","sunws@town.sunapee.nh.us","Town of Sunapee, NH","http://www.town.sunapee.nh.us/Pages/index"
-"146","Nate","Fogg","landusecodedept@wakefieldnh.com","Town of Wakefield, NH","http://www.wakefieldnh.com/"
-"147","Janine","Gillum","chiefoperator@wolfeboronh.us","Town of Wolfeboro","http://www.wolfeboronh.us/"
-"148","Henry","Walker","Walker.Henry@epa.gov","United States Environmental Protection Agency Atlantic Ecology Division","https://www.epa.gov/aboutepa/about-atlantic-ecology-division-aed-epas-national-health-and-environmental-effects-research"
-"149","Jeff","Hollister","Hollister.Jeff@epa.gov","United States Environmental Protection Agency Atlantic Ecology Division","https://www.epa.gov/aboutepa/about-atlantic-ecology-division-aed-epas-national-health-and-environmental-effects-research"
-"150","Betty","Kreakie","Kreakie.Betty@epa.gov","United States Environmental Protection Agency Atlantic Ecology Division","https://www.epa.gov/aboutepa/about-atlantic-ecology-division-aed-epas-national-health-and-environmental-effects-research"
-"151","Thomas","Hollenhorst","Hollenhorst.Tom@epa.gov","United States Environmental Protection Agency Mid-Continent Ecology Division","https://www.epa.gov/aboutepa/about-mid-continent-ecology-division-med-epas-national-health-and-environmental-effects"
-"152","Bryan","Dore","BDore@crwa.org","United States Environmental Protection Agency Region 1","https://www.epa.gov/aboutepa/epa-region-1-new-england"
-"153","Sylvia","Estabrook","Estabrook.Sylvia@epa.gov","United States Environmental Protection Agency Region 1","https://www.epa.gov/aboutepa/epa-region-1-new-england"
-"154","Tom","Faber","Faber.Tom@epa.gov","United States Environmental Protection Agency Region 1","https://www.epa.gov/aboutepa/epa-region-1-new-england"
-"155","Katrina","Kipp","kipp.katrina@epa.gov","United States Environmental Protection Agency Region 1","https://www.epa.gov/aboutepa/epa-region-1-new-england"
-"156","Denise","Springborg","Springborg.Denise@epa.gov","United States Environmental Protection Agency Region 1","https://www.epa.gov/aboutepa/epa-region-1-new-england"
-"157","Toby","Stover","Stover.Toby@epa.gov","United States Environmental Protection Agency Region 1","https://www.epa.gov/aboutepa/epa-region-1-new-england"
-"158","Diane","Switzer","switzer.diane@epa.gov","United States Environmental Protection Agency Region 1","https://www.epa.gov/aboutepa/epa-region-1-new-england"
-"159","Tina","Laidlaw","Laidlaw.Tina@epa.gov","United States Environmental Protection Agency Region 8","https://www.epa.gov/aboutepa/epa-region-8-mountains-and-plains"
-"160","Charles","Culbertson","cculbert@usgs.gov","United States Geological Survey New England Water Science Center","http://newengland.water.usgs.gov/"
-"161","James","Coles","jcoles@usgs.gov","United States Geological Survey New England Water Science Center","http://newengland.water.usgs.gov/"
-"162","Joe","Ayotte","jayotte@usgs.gov","United States Geological Survey New England Water Science Center","http://newengland.water.usgs.gov/"
-"163","James","Haney","jfhaney@cisunix.unh.edu","University of New Hampshire Center for Freshwater Biology","http://cfb.unh.edu/"
-"164","Shane","Bradt","srbradt@unh.edu","University of New Hampshire Cooperative Extension","http://extension.unh.edu/"
-"165","Ed","Pacheco","Ed_Pacheco@msn.com","University of Rhode Island Watershed Watch","http://web.uri.edu/watershedwatch/"
-"166","Elizabeth","Herron","eherron@uri.edu","University of Rhode Island Watershed Watch","http://web.uri.edu/watershedwatch/"
-"167","Jaimie","Holmes","jaimie_holmes@my.uri.edu","University of Rhode Island Watershed Watch","http://web.uri.edu/watershedwatch/"
-"168","Linda","Green","LGreen@uri.edu","University of Rhode Island Watershed Watch","http://web.uri.edu/watershedwatch/"
-"169","Sophie","Fournier","sophie_fournier@my.uri.edu","University of Rhode Island Watershed Watch","http://web.uri.edu/watershedwatch/"
-"170","Vuarnelle","Urena","vuarnelle_urena@my.uri.edu","University of Rhode Island Watershed Watch","http://web.uri.edu/watershedwatch/"
-"171","Angela","Shambaugh","angela.shambaugh@state.vt.us","Vermont Department of Environmental Conservation","http://dec.vermont.gov/"
-"172","Angela","Shambaugh","Angela.Shambaugh@vermont.gov","Vermont Department of Environmental Conservation","http://dec.vermont.gov/"
-"173","Michael","Mezzacapo","michaelmezz@gmail.com","VLAP Canaan Street Lake","http://des.nh.gov/organization/divisions/water/wmb/vlap/"
-"174","James","Fischer","james@whitememorialcc.org","White Memorial Conservation Center","http://whitememorialcc.org/"
-"175","Norman","Willard","normanwillard@gmail.com","White Pond Association",NA
-"176","Jeanne","Achille","jach28@gmail.com","Wilson Lake","http://wilsonlake.net/"
-"177","Corrina","Parnapy","corrina@winooskinrcd.org","Winooski Conservation District","http://winooskinrcd.org/"
-"178","Adam","Leprevost","aleprevostdfwd@outlook.com",NA,NA
-"179","Alice","Rosen","alice.rosen@gmail.com",NA,NA
-"180","Amanda","Murby","mana.murby@gmail.com",NA,NA
-"181","Andrea","Siani","andrea.siani@gmail.com",NA,NA
-"182","Anna","Christian","achris01@bu.edu",NA,NA
-"183","Bart","Guetti","bart.guetti@comcast.net",NA,NA
-"184","Bill","Walker","bill@wwwalker.net",NA,NA
-"185","Bryon","Clemence","bclemence@verizon.net",NA,NA
-"186","B","Burke","bburke15@villanova.edu",NA,NA
-"187","Claudine","Kaplan","cakaplan1@gmail.com",NA,NA
-"188","David","Bearg","dbearg2@gmail.com",NA,NA
-"189","Edwin","Wong","Wonge@wscu.edu",NA,NA
-"190","George","Knoecklein","knoecklein@sbcglobal.net",NA,NA
-"191","Grace","Tucker","gkt25@cornell.edu",NA,NA
-"192","Grant","Balkema","balkema2@illinois.edu",NA,NA
-"193","Hannah","Kyer","hpkyer@gmail.com",NA,NA
-"194","Hillary","Kenyon","hillary.kenyon@gmail.com",NA,NA
-"195","Ian","Thornhill","ithornhill@earthwatch.org.uk",NA,NA
-"196","James","Bader","jxb14@case.edu",NA,NA
-"197","Jerry","Frenkil","jfrenkil@frenkil.com",NA,NA
-"198","Jill","Baron","jill.baron@colostate.edu",NA,NA
-"199","Joe","Rogers","jrogers999@comcast.net",NA,NA
-"200","Joseph","Rogers","rogers999@comcast.net",NA,NA
-"201","Kaitlin","Carr","kcarr3@une.edu",NA,NA
-"202","Kate","Blair","kdblair46@aol.com",NA,NA
-"203","Kristine","Stepenuck","kstepenu@uvm.edu",NA,NA
-"204","Larry","Marsicano","claexecdir@earthlink.net",NA,NA
-"205","Lori","Gill-Pazarls","lpazarls@comcast.net",NA,NA
-"206","Mark","Howarth","clapad@earthlink.net",NA,NA
-"207","Mi-Hyun","Park","mpark@ecs.umass.edu",NA,NA
-"208","Nancy","Leland","nanje1@verizon.net",NA,NA
-"209","Nathan","Torbick","torbick@gmail.com",NA,NA
-"210","Pia","Moisander","pmoisander@umassd.edu",NA,NA
-"211","Qi","Luo","qi.luo@massmail.state.ma.us",NA,NA
-"212","Rebekah","White","rebekah.white84@gmail.com",NA,NA
-"213","Roan","Callahan","roancallahan@gmail.com",NA,NA
-"214","Roger","Frymire","rramjet@verizon.net",NA,NA
-"215","Sabina","Perkins","sabinaperkins@gmail.com",NA,NA
-"216","Sam","Rogers","samrogers888@comcast.net",NA,NA
-"217","Sara","Churgin","schurgin.ericd@gmail.com",NA,NA
+"First.Name","Last.Name","E.mail.Address","Affiliation","Web"
+"John","Lincoln","jlincoln@abrockwater.com","Abbington and Rockland Joint Water District",NA
+"Tom","Royal","troyal@abrockwater.com","Abbington and Rockland Joint Water District",NA
+"Amy","Arsenault","amyarsenault@awwatersheds.org","Acton Wakefield Watersheds Alliance","http://awwatersheds.org/"
+"Kaitlin","Carr","awwaqco@gmail.com","Acton Wakefield Watersheds Alliance","http://awwatersheds.org/"
+"Buck","Howe","buckhowe@comcast.net","Acton Wakefield Watersheds Alliance","http://awwatersheds.org/"
+"Linda","Schier","lindaschier@awwatersheds.org","Acton Wakefield Watersheds Alliance","http://awwatersheds.org/"
+"Sarah","Wright","sarah.wright@aphl.org","Association of Public Health Labs","https://www.aphl.org/Pages/default.aspx"
+"Pat","Boyd","boydplum@comcast.net","Balch lake Association/AWWA","http://www.balchlake.org/"
+"Ray","Boyd","boydplum@comcast.net","Balch lake Association/AWWA","http://www.balchlake.org/"
+"Michael","Germain","Michael.Germain@baystatehealth.org","Baystate Health","https://www.baystatehealth.org/"
+"Gail","Colozzi","bearcamppondassociation@gmail.com","Bear Camp Pond Association",NA
+"Bob","Green","bearcamppondassociation@gmail.com","Bear Camp Pond Association",NA
+"Elaine","Papa","elainepapa267@gmail.com","Buckeye Brook Coalition","http://www.buckeyebrook.org/"
+"Bev","Anderson-Abbs","Bev.Anderson-Abbs@Waterboards.ca.gov","California Environmental Protection Agency State Water Resources Control Board","http://waterboards.ca.gov/"
+"John","Bergeron","bergeronjh@gmail.com","Canaan Street lake Association","http://canaanlakenh.org/the_association.html"
+"Elisabeth","Cianciola","ecianciola@crwa.org","Charles River Watershed Association","http://www.crwa.org/"
+"Kate","Freidman","kfriedman@crwa.org","Charles River Watershed Association","http://www.crwa.org/"
+"Pat","Myers","pmyers@Concordnh.gov","City of Concord, NH","http://www.concordnh.gov/"
+"Marco","Phillipon","MPhilippon@ConcordNH.gov","City of Concord, NH","http://www.concordnh.gov/"
+"Ryan","Boggan","r.boggan@danbury-ct.gov","City of Danbury, CT","http://www.ci.danbury.ct.us/"
+"John","Lynch","johnplynch71@yahoo.com","City of Lebanon, NH","http://www.lebnh.net/"
+"Jessica","Pearce","jpearce@cityofportsmouth.com","City of Portsmouth, NH","http://www.cityofportsmouth.com/"
+"Jim","McColl","mccoll@worcesterma.gov","City of Worcester, MA","http://www.worcesterma.gov/"
+"Mike","Berberian","berberianm@worcesterma.gov","City of Worcester, MA","http://www.worcesterma.gov/"
+"Koby","Ansalic","ansalic@worcesterma.gov","City of Worcester, MA","http://www.worcesterma.gov/"
+"Jaime","Rice","ricejl@worcesterma.gov","City of Worcester, MA","http://www.worcesterma.gov/"
+"Michael","Mendez","mendezm@worcesterma.gov","City of Worcester, MA","http://www.worcesterma.gov/"
+"Philip","Leger","legerP@worcesterma.gov","City of Worcester, MA","http://www.worcesterma.gov/"
+"Tim","Sisson","Timothy.Sisson@clevelandmetroschools.org","Cleveland Metropolitan School District","http://www.clevelandmetroschools.org/"
+"Eileen","Pannetier","epannetier@ceiengineers.com","Comprehensive Environmental Inc.","http://ceiengineers.com/"
+"Tracy","Lizotte","Tracy.Lizotte@ct.gov","Conncecticut Department of Energy and Environmental Protection","http://www.ct.gov/deep/site/default.asp"
+"Walter","Tokarz","walter.tokarz@ct.gov","Conncecticut Department of Energy and Environmental Protection","http://www.ct.gov/deep/site/default.asp"
+"Ansel","Aarrestad","Ansel.Aarrestad@ct.gov","Conncecticut Department of Energy and Environmental Protection Water Quality Monitoring and Assessment Program","http://www.ct.gov/deep/cwp/view.asp?a=2719&q=325616"
+"Christopher","Bellucci","Christopher.Bellucci@ct.gov","Conncecticut Department of Energy and Environmental Protection Water Quality Monitoring and Assessment Program","http://www.ct.gov/deep/cwp/view.asp?a=2719&q=325616"
+"Steven","Loiselle","sloiselle@earthwatch.org.uk","Earthwatch Institute","http://earthwatch.org/"
+"Kitty","Lane","kittyl@eailabs.com","Eastern Analytical, Inc.","http://easternanalytical.com/"
+"Rosalind","Roth","rozroth@gmail.com","Elephant Pond Association",NA
+"Hy","Rosen","rosenhy@gmail.com","Federation of Lake Garfield","http://macolap.org/"
+"Julio","Rodriguez","jrodrn@aol.com","Federation of Lake Garfield","http://macolap.org/"
+"Marty","Goldstein","darkng49@gmail.com","Federation of Lake Garfield","http://macolap.org/"
+"Steve","Edelstein","Steven_edelstein@yahoo.com","Federation of Lake Garfield","http://macolap.org/"
+"Wendy","German","withher2wings@gmail.com","Federation of Lake Garfield","http://macolap.org/"
+"Zoe","Hutcher","zoehutcher@yahoo.com","Federation of Lake Garfield","http://macolap.org/"
+"Chet","Foster","chetfoster@yahoo.com","FOWP",NA
+"Evan","Hornig","capniah@gmail.com","Freshwater Bioassessment Consulting, LLC","http://freshwaterbio.webs.com/"
+"Leo","Thuotte","Thuotte57@gmail.com","Gorton Pond Watershed Watch","http://web.uri.edu/watershedwatch/"
+"Andrew","Madison","amadison@granitestatewater.org","Granite State Rural Water Association","http://www.granitestatewater.org/"
+"Scott","Clang","sclang@granitestatewater.org","Granite State Rural Water Association","http://www.granitestatewater.org/"
+"Dave","Mankus","mankus@worldpath.net","Great East Lake Association/AWWA","http://awwatersheds.org/"
+"Gayle","Elsberry","g_elsberry@hotmail.com","Great East Lake Association/AWWA","http://awwatersheds.org/"
+"Janice","Hunter","jg_hunter@verizon.net","Great East Lake Association/AWWA","http://awwatersheds.org/"
+"Pat","Theisen","ptheisen22@gmail.com","Great East Lake Association/AWWA","http://awwatersheds.org/"
+"Beth","Proko","bproko@charter.net","Indian Lake Watershed Association","http://www.indianlakema.com"
+"Robin","Williams","robinftaubw@gmail.com","Lake Buel Association","http://macolap.org/"
+"Eric","Howe","ehowe@lcbp.org","Lake Champlain Basin Monitoring Program","http://www.lcbp.org/water-environment/data-monitoring/monitoring-programs/"
+"Mike","Winslow","mikew@lakechamplaincommittee.org","Lake Champlain Committee","https://www.lakechamplaincommittee.org/"
+"Wayne","Laroche","wayne@mychamplain.net","Lake Champlain International","https://www.mychamplain.net/"
+"James","Ehlers","james@mychamplain.net","Lake Champlain International","https://www.mychamplain.net/"
+"Richard and Pat","Edelstein","mdrnhart@gmail.com","Lake Garfield Association","http://macolap.org/"
+"Barbara","Kickham","BKS3@townisp.com","Lake Quinsigamond Watershed Association","http://www.lqwa.org/"
+"Mike","Kalinowski","kalinowski.mike@gmail.com","Lake Quinsigamond Watershed Association","http://www.lqwa.org/"
+"Alex","Cahill","alexandra.cahill@uvm.edu","Lake Sunapee Protective Association","http://www.lakesunapee.org/contact-us/"
+"Kristy","Sullivan","sullivan_kristy@wheatoncollege.edu","Lake Sunapee Protective Association","http://www.lakesunapee.org/contact-us/"
+"Teriko","MacConnell","teriko.macconnell@sawyer-college.edu","Lake Sunapee Protective Association","http://www.lakesunapee.org/contact-us/"
+"Don","Kretchmer","dkretchmer@metrocast.net","Lake Wentworth","http://www.wolfeboronh.us/home/events/6813"
+"Rich","Masse","rich.masse@moosepoint.org","Lake Wentworth","http://www.wolfeboronh.us/home/events/6813"
+"Al","Collings","afc@charter.net","Lake Wickaboag Preservation","http://www.lakewickaboag.com/"
+"Jack","Sweeney","jrsweeney58@charter.net","Lake Wickaboag Preservation","http://www.lakewickaboag.com/"
+"Pat","Tarpey","ptarpey@winnipesaukee.org","Lake Winnepesauki Association","http://www.winnipesaukee.org/"
+"Jim","Angers","jim.angers@lebcity.com","Lebanon, NH","http://www.lebnh.net/"
+"Adam","Lewis","adam.lewis@lebcity.com","Lebanon, NH","http://www.lebnh.net/"
+"Mike","Liberty","infoo@libertyconcretecutting.com","Liberty Concrete Cutting",NA
+"Chuck","Robbins","cpr55@roadrunner.com","Lovell Lake Association/AWWA","http://www.lovelllakenh.org/"
+"Dana","Padgett","danavpadgett@yahoo.com","Lovell Lake Association/AWWA","http://www.lovelllakenh.org/"
+"Marti","Ortiz","marti_ortiz2000@yahoo.com","Lovell Lake Association/AWWA","http://www.lovelllakenh.org/"
+"Oscar","Ortiz","oscar3865@att.net","Lovell Lake Association/AWWA","http://www.lovelllakenh.org/"
+"Paul","Doucette","paljudth@gmail.com","Lovell Lake Association/AWWA","http://www.lovelllakenh.org/"
+"Stephanie","Thornton","saythornton@gmail.com","Lovell Lake Association/AWWA","http://www.lovelllakenh.org/"
+"Linda","Bacon","lbacon75139@roadrunner.com","Maine Department of Environmental Protection Lakes Program","http://www.maine.gov/dep/water/lakes/"
+"Linda","Bacon","Linda.C.Bacon@maine.gov","Maine Department of Environmental Protection Lakes Program","http://www.maine.gov/dep/water/lakes/"
+"Maggie","Shannon","msshannon@mainelakessociety.org","Maine Lakes Society","http://mainelakessociety.org/"
+"Alex","Larochelle","alarochelle@manchesternh.gov","Manchester Water Works","https://www.manchesternh.gov/Departments/Water-Works"
+"Cheryl","Wood","CWood@manchesternh.gov","Manchester Water Works","https://www.manchesternh.gov/Departments/Water-Works"
+"Dave","Miller","dmiller@manchesternh.gov","Manchester Water Works","https://www.manchesternh.gov/Departments/Water-Works"
+"John","O'Neil","jmoneil@manchesternh.gov","Manchester Water Works","https://www.manchesternh.gov/Departments/Water-Works"
+"Kristin","Conte","kconte@manchesternh.gov","Manchester Water Works","https://www.manchesternh.gov/Departments/Water-Works"
+"Jim","Martel","Jjimmartel41@gmail.com","Mascoma Lake Association","http://mascomalakeassociation.mylaketown.com/"
+"Bill","Clougherty","william.cluogherty@state.ma.us","Massachusetts Department of Environmental Protection Watershed and Drinking Water Programs","http://www.mass.gov/eea/agencies/massdep/water/drinking/"
+"George","Zoto","george.zoto@state.ma.us","Massachusetts Department of Environmental Protection Watershed and Drinking Water Programs","http://www.mass.gov/eea/agencies/massdep/water/drinking/"
+"Joanie","Beskenis","Joan.Beskenis@state.ma.us","Massachusetts Department of Environmental Protection Watershed and Drinking Water Programs","http://www.mass.gov/eea/agencies/massdep/water/drinking/"
+"Kristin","Divris","kristin.divris@state.ma.us","Massachusetts Department of Environmental Protection Watershed and Drinking Water Programs","http://www.mass.gov/eea/agencies/massdep/water/drinking/"
+"Mike","Celona","mike.celona@state.ma.us","Massachusetts Department of Environmental Protection Watershed and Drinking Water Programs","http://www.mass.gov/eea/agencies/massdep/water/drinking/"
+"Thomas","Laage","talaage@massmed.org","Massachusetts Medical Society","http://www.massmed.org/"
+"Daniel","Leonard","dleonard@meredithnh.org","Merideth Public Water Supply","http://www.meredithnh.org/Joomla/index.php/town-departments-26/water-a-sewer"
+"Bob","Garnett","rjg46@hotmail.com","Milton Three Ponds","http://www.threeponds.org/"
+"Lee","Chase","svsequela@yahoo.com","Milton Three Ponds","http://www.threeponds.org/"
+"David","Sittenfeld","dsittenfeld@mos.org","Museum of Science","http://mos.org/"
+"Andy","Hrycyna","andy@mysticriver.org","Mystic River Watershed Association","http://mysticriver.org/"
+"Anthony","Motta","motta@neponset.org","Neponset River Watershed Association","http://www.neponset.org/"
+"Chris","Hirsch","hirsch@neponset.org","Neponset River Watershed Association","http://www.neponset.org/"
+"Meghan","Ranber","meghan@neponset.org","Neponset River Watershed Association","http://www.neponset.org/"
+"Jasper","Hobbs","JHobbs@neiwpcc.org","New England Interstate Water Pollution Control Commission","http://www.neiwpcc.org/"
+"Dan","Peckham","DPeckham@neiwpcc.org","New England Interstate Water Pollution Control Commission","http://www.neiwpcc.org/"
+"Kimberly","Roth","kroth@neiwpcc.org","New England Interstate Water Pollution Control Commission","http://www.neiwpcc.org/"
+"David","Neils","dneils@des.state.nh.us","New Hampshire Department of Environmental Services","http://des.nh.gov/"
+"Sonya","Carlson","sonya.carlson@des.nh.gov","New Hampshire Department of Environmental Services","http://des.nh.gov/"
+"Paul","Susca","Paul.Susca@des.nh.gov","New Hampshire Department of Environmental Services","http://des.nh.gov/index.htm"
+"Pierce","Rigrod","Pierce.Laskey-Rigrod@des.nh.gov","New Hampshire Department of Environmental Services","http://des.nh.gov/index.htm"
+"Scott","Almstrom","scott.almstrom@hypertherm.com","New Hampshire Lake Association","https://nhlakes.org/"
+"Rebecca","Gorney","Rebecca.Gorney@dec.ny.gov","New York State Deparment of Environmental Conservation","http://www.dec.ny.gov/index.html"
+"Scott","Kishbaugh","sakishba@gw.dec.state.ny.us","New York State Deparment of Environmental Conservation","http://www.dec.ny.gov/index.html"
+"Julie","Hambrook Berkman","jberkman@ourspaces.org.uk","Our Spaces","http://www.ourspaces.org.uk/"
+"Carl","Ullman","cullman52@sbcglobal.net","Owl lake Association",NA
+"William","Longfellow","wlongfellow@wabanaki.com","Passamaquoddy Tribe","http://www.wabanaki.com/"
+"Chris","Countie","chris.countie@pennichuck.com","Pennichuck Water Works","http://www.pennichuck.com/"
+"Matt","Day","matt.day@PENNICHUCK.com","Pennichuck Water Works","http://www.pennichuck.com/"
+"Angie","Reed","Angie.Reed@penobscotnation.org","Penobscot Nation","https://www.penobscotnation.org/"
+"Rosemary","Stewart","rstewart199@hotmail.com","Pine River Pond Association/AWWA","http://pineriverpond.org/"
+"Yvonne","Buswell","pondhouse9@comcast.net","Pine River Pond Association/AWWA","http://pineriverpond.org/"
+"Paula","Inglee","almostprf@aol.com","Province Lake Association/AWWA","http://provincelake.org/"
+"Shirley","Cartwright","cartwright@earthlink.net","Province Lake Association/AWWA","http://provincelake.org/"
+"Noel","Cartwright","cartwright@earthlink.net","Province Lake Association/AWWA","http://provincelake.org/"
+"Brian","Zalewsky","Brian.Zalewsky@DEM.RI.GOV","Rhode Island Department of Environmental Management","http://www.dem.ri.gov/"
+"Jane","Sawyers","Jane.Sawyers@DEM.RI.GOV","Rhode Island Department of Environmental Management","http://www.dem.ri.gov/"
+"Evan","Philo","Evan.Philo@health.ri.gov","Rhode Island Department of Health Laboratories","http://www.health.ri.gov/programs/laboratory/"
+"Henry","Leibovitz","Henry.Leibovitz@health.ri.gov","Rhode Island Department of Health Laboratories","http://www.health.ri.gov/programs/laboratory/"
+"Tim","Green","tim.green@rochesternh.net","Rochester Water Department","http://www.rochesternh.net/public-works"
+"Sue and Frank","Burgess","bingyby@comcast.net","Rock Pond Association","https://www.facebook.com/RockPondAssociation/"
+"Eileen","Naughton","rep.naughton@gmail.com","State Representative-District 21 (Warwick)",NA
+"John","Ferrarone","johnjferrarone@gmail.com","Tatnuck Brook Association","https://tatnuckbrookwatershed.wordpress.com/2011/06/28/join-the-tatnuck-brook-watershed-association/"
+"Delia","Kaye","dkaye@concordma.gov","Town of Concord, MA","http://www.concordnet.org/Pages/index"
+"Lori","Capone","lcapone@concordma.gov","Town of Concord, MA","http://www.concordnet.org/Pages/index"
+NA,NA,"nrctemp@concordma.gov","Town of Concord, MA","http://www.concordnet.org/Pages/index"
+"Susan","Rask","srask@concordma.gov","Town of Concord, MA","http://www.concordnet.org/Pages/index"
+"Peter","Kulbacki","peter.kulbacki@hanovernh.org","Town of Hanover, NH","http://www.hanovernh.org/Pages/index"
+"Lee","Bavis","lbavis@meredithnh.org","Town of Meredith, NH","http://www.meredithnh.org/"
+"Mike","Mccarthy","mmcarthy@newfairfield.org","Town of New Fairfield, CT","http://newfairfield.org/"
+"Tim","Simpkins","Tsimpkins@newfairfield.org","Town of New Fairfield, CT","http://newfairfield.org/"
+"Suzanne","Von Holt","svonholt@newmilford.org","Town of New Milford, CT","http://www.newmilford.org/"
+"Ian","Rohrbacher","ian.rohrbacher@rochesternh.net","Town of Rochester, NH","http://www.rochesternh.net"
+"Tim","Green","tim.green@rochesternh.net","Town of Rochester, NH","http://www.rochesternh.net"
+"Angela","Snell","asnell@shrewsburyma.gov","Town of Shrewsbury","https://shrewsburyma.gov/407/Parks-Recreation"
+"Kevin","Esposito","kesposito@shrewsburyma.gov","Town of Shrewsbury","https://shrewsburyma.gov/407/Parks-Recreation"
+"Jacquie","Gonig","conservation2@stow-ma.gov","Town of Stow, MA","http://www.stow-ma.gov/pages/index"
+"David","Bailey","sunws@town.sunapee.nh.us","Town of Sunapee, NH","http://www.town.sunapee.nh.us/Pages/index"
+"Nate","Fogg","landusecodedept@wakefieldnh.com","Town of Wakefield, NH","http://www.wakefieldnh.com/"
+"Janine","Gillum","chiefoperator@wolfeboronh.us","Town of Wolfeboro","http://www.wolfeboronh.us/"
+"Henry","Walker","Walker.Henry@epa.gov","United States Environmental Protection Agency Atlantic Ecology Division","https://www.epa.gov/aboutepa/about-atlantic-ecology-division-aed-epas-national-health-and-environmental-effects-research"
+"Jeff","Hollister","Hollister.Jeff@epa.gov","United States Environmental Protection Agency Atlantic Ecology Division","https://www.epa.gov/aboutepa/about-atlantic-ecology-division-aed-epas-national-health-and-environmental-effects-research"
+"Betty","Kreakie","Kreakie.Betty@epa.gov","United States Environmental Protection Agency Atlantic Ecology Division","https://www.epa.gov/aboutepa/about-atlantic-ecology-division-aed-epas-national-health-and-environmental-effects-research"
+"Thomas","Hollenhorst","Hollenhorst.Tom@epa.gov","United States Environmental Protection Agency Mid-Continent Ecology Division","https://www.epa.gov/aboutepa/about-mid-continent-ecology-division-med-epas-national-health-and-environmental-effects"
+"Bryan","Dore","BDore@crwa.org","United States Environmental Protection Agency Region 1","https://www.epa.gov/aboutepa/epa-region-1-new-england"
+"Sylvia","Estabrook","Estabrook.Sylvia@epa.gov","United States Environmental Protection Agency Region 1","https://www.epa.gov/aboutepa/epa-region-1-new-england"
+"Tom","Faber","Faber.Tom@epa.gov","United States Environmental Protection Agency Region 1","https://www.epa.gov/aboutepa/epa-region-1-new-england"
+"Katrina","Kipp","kipp.katrina@epa.gov","United States Environmental Protection Agency Region 1","https://www.epa.gov/aboutepa/epa-region-1-new-england"
+"Denise","Springborg","Springborg.Denise@epa.gov","United States Environmental Protection Agency Region 1","https://www.epa.gov/aboutepa/epa-region-1-new-england"
+"Toby","Stover","Stover.Toby@epa.gov","United States Environmental Protection Agency Region 1","https://www.epa.gov/aboutepa/epa-region-1-new-england"
+"Diane","Switzer","switzer.diane@epa.gov","United States Environmental Protection Agency Region 1","https://www.epa.gov/aboutepa/epa-region-1-new-england"
+"Tina","Laidlaw","Laidlaw.Tina@epa.gov","United States Environmental Protection Agency Region 8","https://www.epa.gov/aboutepa/epa-region-8-mountains-and-plains"
+"Charles","Culbertson","cculbert@usgs.gov","United States Geological Survey New England Water Science Center","http://newengland.water.usgs.gov/"
+"James","Coles","jcoles@usgs.gov","United States Geological Survey New England Water Science Center","http://newengland.water.usgs.gov/"
+"Joe","Ayotte","jayotte@usgs.gov","United States Geological Survey New England Water Science Center","http://newengland.water.usgs.gov/"
+"James","Haney","jfhaney@cisunix.unh.edu","University of New Hampshire Center for Freshwater Biology","http://cfb.unh.edu/"
+"Shane","Bradt","srbradt@unh.edu","University of New Hampshire Cooperative Extension","http://extension.unh.edu/"
+"Ed","Pacheco","Ed_Pacheco@msn.com","University of Rhode Island Watershed Watch","http://web.uri.edu/watershedwatch/"
+"Elizabeth","Herron","eherron@uri.edu","University of Rhode Island Watershed Watch","http://web.uri.edu/watershedwatch/"
+"Jaimie","Holmes","jaimie_holmes@my.uri.edu","University of Rhode Island Watershed Watch","http://web.uri.edu/watershedwatch/"
+"Linda","Green","LGreen@uri.edu","University of Rhode Island Watershed Watch","http://web.uri.edu/watershedwatch/"
+"Sophie","Fournier","sophie_fournier@my.uri.edu","University of Rhode Island Watershed Watch","http://web.uri.edu/watershedwatch/"
+"Vuarnelle","Urena","vuarnelle_urena@my.uri.edu","University of Rhode Island Watershed Watch","http://web.uri.edu/watershedwatch/"
+"Angela","Shambaugh","angela.shambaugh@state.vt.us","Vermont Department of Environmental Conservation","http://dec.vermont.gov/"
+"Angela","Shambaugh","Angela.Shambaugh@vermont.gov","Vermont Department of Environmental Conservation","http://dec.vermont.gov/"
+"Michael","Mezzacapo","michaelmezz@gmail.com","VLAP Canaan Street Lake","http://des.nh.gov/organization/divisions/water/wmb/vlap/"
+"James","Fischer","james@whitememorialcc.org","White Memorial Conservation Center","http://whitememorialcc.org/"
+"Norman","Willard","normanwillard@gmail.com","White Pond Association",NA
+"Jeanne","Achille","jach28@gmail.com","Wilson Lake","http://wilsonlake.net/"
+"Corrina","Parnapy","corrina@winooskinrcd.org","Winooski Conservation District","http://winooskinrcd.org/"
+"Adam","Leprevost","aleprevostdfwd@outlook.com",NA,NA
+"Alice","Rosen","alice.rosen@gmail.com",NA,NA
+"Amanda","Murby","mana.murby@gmail.com",NA,NA
+"Andrea","Siani","andrea.siani@gmail.com",NA,NA
+"Anna","Christian","achris01@bu.edu",NA,NA
+"Bart","Guetti","bart.guetti@comcast.net",NA,NA
+"Bill","Walker","bill@wwwalker.net",NA,NA
+"Bryon","Clemence","bclemence@verizon.net",NA,NA
+"B","Burke","bburke15@villanova.edu",NA,NA
+"Claudine","Kaplan","cakaplan1@gmail.com",NA,NA
+"David","Bearg","dbearg2@gmail.com",NA,NA
+"Edwin","Wong","Wonge@wcsu.edu",NA,NA
+"George","Knoecklein","knoecklein@sbcglobal.net",NA,NA
+"Grace","Tucker","gkt25@cornell.edu",NA,NA
+"Grant","Balkema","balkema2@illinois.edu",NA,NA
+"Hannah","Kyer","hpkyer@gmail.com",NA,NA
+"Hillary","Kenyon","hillary.kenyon@gmail.com",NA,NA
+"Ian","Thornhill","ithornhill@earthwatch.org.uk",NA,NA
+"James","Bader","jxb14@case.edu",NA,NA
+"Jerry","Frenkil","jfrenkil@frenkil.com",NA,NA
+"Jill","Baron","jill.baron@colostate.edu",NA,NA
+"Joe","Rogers","jrogers999@comcast.net",NA,NA
+"Joseph","Rogers","rogers999@comcast.net",NA,NA
+"Kaitlin","Carr","kcarr3@une.edu",NA,NA
+"Kate","Blair","kdblair46@aol.com",NA,NA
+"Kristine","Stepenuck","kstepenu@uvm.edu",NA,NA
+"Larry","Marsicano","claexecdir@earthlink.net",NA,NA
+"Lori","Gill-Pazarls","lpazarls@comcast.net",NA,NA
+"Mark","Howarth","clapad@earthlink.net",NA,NA
+"Mi-Hyun","Park","mpark@ecs.umass.edu",NA,NA
+"Nancy","Leland","nanje1@verizon.net",NA,NA
+"Nathan","Torbick","torbick@gmail.com",NA,NA
+"Pia","Moisander","pmoisander@umassd.edu",NA,NA
+"Qi","Luo","qi.luo@massmail.state.ma.us",NA,NA
+"Rebekah","White","rebekah.white84@gmail.com",NA,NA
+"Roan","Callahan","roancallahan@gmail.com",NA,NA
+"Roger","Frymire","rramjet@verizon.net",NA,NA
+"Sabina","Perkins","sabinaperkins@gmail.com",NA,NA
+"Sam","Rogers","samrogers888@comcast.net",NA,NA
+"Sara","Churgin","schurgin.ericd@gmail.com",NA,NA
+"Charlie","Crespi","charles.cyp.crespi@gmail.com","Acton Wakefield Watersheds Alliance","http://awwatersheds.org/"
