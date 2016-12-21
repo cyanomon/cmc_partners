@@ -2,7 +2,7 @@
 "John","Lincoln","jlincoln@abrockwater.com","Abbington and Rockland Joint Water District",NA
 "Tom","Royal","troyal@abrockwater.com","Abbington and Rockland Joint Water District",NA
 "Amy","Arsenault","amyarsenault@awwatersheds.org","Acton Wakefield Watersheds Alliance","http://awwatersheds.org/"
-"Kaitlin","Carr","awwaqco@gmail.com","Acton Wakefield Watersheds Alliance","http://awwatersheds.org/"
+"Kaitlin","Carr","","Acton Wakefield Watersheds Alliance","http://awwatersheds.org/"
 "Buck","Howe","buckhowe@comcast.net","Acton Wakefield Watersheds Alliance","http://awwatersheds.org/"
 "Linda","Schier","lindaschier@awwatersheds.org","Acton Wakefield Watersheds Alliance","http://awwatersheds.org/"
 "Sarah","Wright","sarah.wright@aphl.org","Association of Public Health Labs","https://www.aphl.org/Pages/default.aspx"
@@ -38,7 +38,7 @@
 "Rosalind","Roth","rozroth@gmail.com","Elephant Pond Association",NA
 "Hy","Rosen","rosenhy@gmail.com","Federation of Lake Garfield","http://macolap.org/"
 "Julio","Rodriguez","jrodrn@aol.com","Federation of Lake Garfield","http://macolap.org/"
-"Marty","Goldstein","darkng49@gmail.com","Federation of Lake Garfield","http://macolap.org/"
+"Marty","Goldstein","","Federation of Lake Garfield","http://macolap.org/"
 "Steve","Edelstein","Steven_edelstein@yahoo.com","Federation of Lake Garfield","http://macolap.org/"
 "Wendy","German","withher2wings@gmail.com","Federation of Lake Garfield","http://macolap.org/"
 "Zoe","Hutcher","zoehutcher@yahoo.com","Federation of Lake Garfield","http://macolap.org/"
@@ -55,14 +55,14 @@
 "Robin","Williams","robinftaubw@gmail.com","Lake Buel Association","http://macolap.org/"
 "Eric","Howe","ehowe@lcbp.org","Lake Champlain Basin Monitoring Program","http://www.lcbp.org/water-environment/data-monitoring/monitoring-programs/"
 "Mike","Winslow","mikew@lakechamplaincommittee.org","Lake Champlain Committee","https://www.lakechamplaincommittee.org/"
-"Wayne","Laroche","wayne@mychamplain.net","Lake Champlain International","https://www.mychamplain.net/"
+"Wayne","Laroche","","Lake Champlain International","https://www.mychamplain.net/"
 "James","Ehlers","james@mychamplain.net","Lake Champlain International","https://www.mychamplain.net/"
-"Richard and Pat","Edelstein","mdrnhart@gmail.com","Lake Garfield Association","http://macolap.org/"
+"Richard and Pat","Edelstein","","Lake Garfield Association","http://macolap.org/"
 "Barbara","Kickham","BKS3@townisp.com","Lake Quinsigamond Watershed Association","http://www.lqwa.org/"
 "Mike","Kalinowski","kalinowski.mike@gmail.com","Lake Quinsigamond Watershed Association","http://www.lqwa.org/"
 "Alex","Cahill","alexandra.cahill@uvm.edu","Lake Sunapee Protective Association","http://www.lakesunapee.org/contact-us/"
 "Kristy","Sullivan","sullivan_kristy@wheatoncollege.edu","Lake Sunapee Protective Association","http://www.lakesunapee.org/contact-us/"
-"Teriko","MacConnell","teriko.macconnell@sawyer-college.edu","Lake Sunapee Protective Association","http://www.lakesunapee.org/contact-us/"
+"Teriko","MacConnell","teriko.macconnell@colby-sawyer.edu","Lake Sunapee Protective Association","http://www.lakesunapee.org/contact-us/"
 "Don","Kretchmer","dkretchmer@metrocast.net","Lake Wentworth","http://www.wolfeboronh.us/home/events/6813"
 "Rich","Masse","rich.masse@moosepoint.org","Lake Wentworth","http://www.wolfeboronh.us/home/events/6813"
 "Al","Collings","afc@charter.net","Lake Wickaboag Preservation","http://www.lakewickaboag.com/"
@@ -70,7 +70,7 @@
 "Pat","Tarpey","ptarpey@winnipesaukee.org","Lake Winnepesauki Association","http://www.winnipesaukee.org/"
 "Jim","Angers","jim.angers@lebcity.com","Lebanon, NH","http://www.lebnh.net/"
 "Adam","Lewis","adam.lewis@lebcity.com","Lebanon, NH","http://www.lebnh.net/"
-"Mike","Liberty","infoo@libertyconcretecutting.com","Liberty Concrete Cutting",NA
+"Mike","Liberty","info@libertyconcretecutting.com","Liberty Concrete Cutting",NA
 "Chuck","Robbins","cpr55@roadrunner.com","Lovell Lake Association/AWWA","http://www.lovelllakenh.org/"
 "Dana","Padgett","danavpadgett@yahoo.com","Lovell Lake Association/AWWA","http://www.lovelllakenh.org/"
 "Marti","Ortiz","marti_ortiz2000@yahoo.com","Lovell Lake Association/AWWA","http://www.lovelllakenh.org/"
@@ -85,7 +85,7 @@
 "Dave","Miller","dmiller@manchesternh.gov","Manchester Water Works","https://www.manchesternh.gov/Departments/Water-Works"
 "John","O'Neil","jmoneil@manchesternh.gov","Manchester Water Works","https://www.manchesternh.gov/Departments/Water-Works"
 "Kristin","Conte","kconte@manchesternh.gov","Manchester Water Works","https://www.manchesternh.gov/Departments/Water-Works"
-"Jim","Martel","Jjimmartel41@gmail.com","Mascoma Lake Association","http://mascomalakeassociation.mylaketown.com/"
+"Jim","Martel","jimmartel41@gmail.com","Mascoma Lake Association","http://mascomalakeassociation.mylaketown.com/"
 "Bill","Clougherty","william.cluogherty@state.ma.us","Massachusetts Department of Environmental Protection Watershed and Drinking Water Programs","http://www.mass.gov/eea/agencies/massdep/water/drinking/"
 "George","Zoto","george.zoto@state.ma.us","Massachusetts Department of Environmental Protection Watershed and Drinking Water Programs","http://www.mass.gov/eea/agencies/massdep/water/drinking/"
 "Joanie","Beskenis","Joan.Beskenis@state.ma.us","Massachusetts Department of Environmental Protection Watershed and Drinking Water Programs","http://www.mass.gov/eea/agencies/massdep/water/drinking/"
@@ -126,7 +126,7 @@
 "Evan","Philo","Evan.Philo@health.ri.gov","Rhode Island Department of Health Laboratories","http://www.health.ri.gov/programs/laboratory/"
 "Henry","Leibovitz","Henry.Leibovitz@health.ri.gov","Rhode Island Department of Health Laboratories","http://www.health.ri.gov/programs/laboratory/"
 "Tim","Green","tim.green@rochesternh.net","Rochester Water Department","http://www.rochesternh.net/public-works"
-"Sue and Frank","Burgess","bingyby@comcast.net","Rock Pond Association","https://www.facebook.com/RockPondAssociation/"
+"Sue and Frank","Burgess","","Rock Pond Association","https://www.facebook.com/RockPondAssociation/"
 "Eileen","Naughton","rep.naughton@gmail.com","State Representative-District 21 (Warwick)",NA
 "John","Ferrarone","johnjferrarone@gmail.com","Tatnuck Brook Association","https://tatnuckbrookwatershed.wordpress.com/2011/06/28/join-the-tatnuck-brook-watershed-association/"
 "Delia","Kaye","dkaye@concordma.gov","Town of Concord, MA","http://www.concordnet.org/Pages/index"
@@ -135,7 +135,7 @@ NA,NA,"nrctemp@concordma.gov","Town of Concord, MA","http://www.concordnet.org/P
 "Susan","Rask","srask@concordma.gov","Town of Concord, MA","http://www.concordnet.org/Pages/index"
 "Peter","Kulbacki","peter.kulbacki@hanovernh.org","Town of Hanover, NH","http://www.hanovernh.org/Pages/index"
 "Lee","Bavis","lbavis@meredithnh.org","Town of Meredith, NH","http://www.meredithnh.org/"
-"Mike","Mccarthy","mmcarthy@newfairfield.org","Town of New Fairfield, CT","http://newfairfield.org/"
+"Mike","Mccarthy","mmccarthy@newfairfield.org","Town of New Fairfield, CT","http://newfairfield.org/"
 "Tim","Simpkins","Tsimpkins@newfairfield.org","Town of New Fairfield, CT","http://newfairfield.org/"
 "Suzanne","Von Holt","svonholt@newmilford.org","Town of New Milford, CT","http://www.newmilford.org/"
 "Ian","Rohrbacher","ian.rohrbacher@rochesternh.net","Town of Rochester, NH","http://www.rochesternh.net"
@@ -187,7 +187,7 @@ NA,NA,"nrctemp@concordma.gov","Town of Concord, MA","http://www.concordnet.org/P
 "B","Burke","bburke15@villanova.edu",NA,NA
 "Claudine","Kaplan","cakaplan1@gmail.com",NA,NA
 "David","Bearg","dbearg2@gmail.com",NA,NA
-"Edwin","Wong","Wonge@wcsu.edu",NA,NA
+"Edwin","Wong","wonge@wcsu.edu",NA,NA
 "George","Knoecklein","knoecklein@sbcglobal.net",NA,NA
 "Grace","Tucker","gkt25@cornell.edu",NA,NA
 "Grant","Balkema","balkema2@illinois.edu",NA,NA
@@ -203,7 +203,7 @@ NA,NA,"nrctemp@concordma.gov","Town of Concord, MA","http://www.concordnet.org/P
 "Kate","Blair","kdblair46@aol.com",NA,NA
 "Kristine","Stepenuck","kstepenu@uvm.edu",NA,NA
 "Larry","Marsicano","claexecdir@earthlink.net",NA,NA
-"Lori","Gill-Pazarls","lpazarls@comcast.net",NA,NA
+"Lori","Gill-Pazaris","lpazaris@comcast.net",NA,NA
 "Mark","Howarth","clapad@earthlink.net",NA,NA
 "Mi-Hyun","Park","mpark@ecs.umass.edu",NA,NA
 "Nancy","Leland","nanje1@verizon.net",NA,NA
@@ -217,3 +217,5 @@ NA,NA,"nrctemp@concordma.gov","Town of Concord, MA","http://www.concordnet.org/P
 "Sam","Rogers","samrogers888@comcast.net",NA,NA
 "Sara","Churgin","schurgin.ericd@gmail.com",NA,NA
 "Charlie","Crespi","charles.cyp.crespi@gmail.com","Acton Wakefield Watersheds Alliance","http://awwatersheds.org/"
+"Hilary","Snook","snook.hilary@epa.gov","United States Environmental Protection Agency Region 1","https://www.epa.gov/aboutepa/epa-region-1-new-england"
+"Bryan","Milstead","milstead.william@epa.gov","United States Environmental Protection Agency Atlantic Ecology Division","https://www.epa.gov/aboutepa/about-atlantic-ecology-division-aed-epas-national-health-and-environmental-effects-research"
